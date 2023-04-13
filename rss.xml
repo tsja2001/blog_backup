@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Randy&#39;s Blog</title>
+  <subtitle>Randy is blogging about life, tech and music.</subtitle>
+  <link href="https://lutaonan.com/rss.xml" rel="self"/>
+  <link href="https://lutaonan.com/"/>
+  <updated>2023-04-13T00:00:00Z</updated>
+  <id>https://lutaonan.com/</id>
+  <author>
+    <name>Randy</name>
+  </author>
+  
+  <entry>
+    <title>Hello-Blog</title>
+    <link href="https://lutaonan.com/blog/hello/"/>
+    <updated>2023-04-13T00:00:00Z</updated>
+    <id>https://lutaonan.com/blog/hello/</id>
+    <content type="html">&lt;h2 id=&quot;%E4%BD%A0%E5%A5%BD%2C-%E5%8D%9A%E5%AE%A2&quot; tabindex=&quot;-1&quot;&gt;你好, 博客&lt;/h2&gt;
+&lt;p&gt;你好, 这是此网站的第一篇博客&lt;/p&gt;
+</content>
+  </entry>
+</feed>
